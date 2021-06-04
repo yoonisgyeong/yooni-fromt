@@ -1,0 +1,7 @@
+{
+    "/yooni/*" : {
+        "target" : "http://localhost:8882",
+        "secure" : false,
+        "logLevel" : "debug"
+    }
+}

@@ -1,0 +1,26 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+}
+a {
+  cursor: pointer;
+}
+
+mat-header-cell {
+  justify-content: center;
+}
+.column-center {
+  justify-content: center;
+}
+
+.no-content {
+  text-align: center;
+  margin: 10px 0;
+}
+
+mat-row:hover{
+  background: lightgray;
+  color: #fff;
+  cursor: pointer;
+}
